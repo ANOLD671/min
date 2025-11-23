@@ -799,7 +799,7 @@ if __name__ == '__main__':
     📱 Telegram Bot: {CONFIG['telegram_bot']}
     📢 Telegram Channel: {CONFIG['telegram_channel']}
     🎥 Live Streams: {len(LIVE_STREAMS)} channels
-    🌐 Server will run on: https://localhost:5000
+    🌐 Server will run on port 5000
     
     Endpoints:
     • / - Main Mini App
@@ -811,10 +811,9 @@ if __name__ == '__main__':
     Press Ctrl+C to stop the server
     """)
     
-    # Run the Flask app with SSL for HTTPS (required for Telegram)
+    # REMOVE SSL FOR RENDER - They provide HTTPS automatically
     app.run(
         host='0.0.0.0',
         port=5000,
-        debug=True,
-        ssl_context='adhoc'  # This creates self-signed SSL certificate
+        debug=False  # Set to False for production
     )
