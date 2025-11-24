@@ -50,7 +50,7 @@ LIVE_STREAMS = [
         'name': 'LALIGA',
         'icon': '⚽',
         'category': 'sports',
-        'stream_url': 'https://est.dhscgrsresri.space/simpch4/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzYzODE5NzU4LCJyYW5kIjoiZjFjODA1MjEwZmE1MGFiMyJ9.94367b389b6a54f2b2c9892817c7e15baeb68f756bd96c0fe1c93843629e1128',
+        'stream_url': 'https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8',
         'backup_url': 'https://est.dhscgrsresri.space/simpch4/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzYzODE5NzU4LCJyYW5kIjoiZjFjODA1MjEwZmE1MGFiMyJ9.94367b389b6a54f2b2c9892817c7e15baeb68f756bd96c0fe1c93843629e1128',
         'quality': '720p'
     },
