@@ -32,7 +32,7 @@ LIVE_STREAMS = [
         'name': 'SKY SPORTS PREMIER LEAGUE',
         'icon': '🔴',
         'category': 'premier_league', 
-        'stream_url': 'https://river-3-349.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/MH8K9vkllTUgWrEgmcso4w/1764472760/e5bacac3b8e730791d4cab20ae81cd8f/1080p_stream.m3u8',
+        'stream_url': 'https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/4fe92128-0730-41c7-bfef-7ce7cea86a84:BRU/variant/9ee48f2b7254c5ec0c4f1bd967231e22/bandwidth/823489.m3u8',
         'backup_url': 'https://river-3-349.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/Oa3M5MfczMACecPRs92c5Q/1764422247/e5bacac3b8e730791d4cab20ae81cd8f/720p_stream.m3u8',
         'quality': '720p'
     },
