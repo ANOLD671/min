@@ -23,8 +23,8 @@ LIVE_STREAMS = [
         'name': 'PREMIER SPORTS',
         'icon': '⚽',
         'category': 'sports',
-        'stream_url': 'https://storage.googleapis.com/plus00bf/mux_video_ts/index-1.m3u8',
-        'backup_url': 'https://storage.googleapis.com/plus00bf/mux_video_ts/index-1.m3u8',
+        'stream_url': 'https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/320aa3c2-5273-4541-a916-640dd3f81970:BRU/variant/2efd9d393cc7fff0fc6580ada14bfe6d/bandwidth/2977158.m3u8',
+        'backup_url': 'https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/320aa3c2-5273-4541-a916-640dd3f81970:BRU/variant/83ed98cfa63df1b169a33cfbb4def0e6/bandwidth/2019972.m3u8',
         'quality': '720p'
     },
     {
