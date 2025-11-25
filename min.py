@@ -23,8 +23,8 @@ LIVE_STREAMS = [
         'name': 'PREMIER SPORTS',
         'icon': '⚽',
         'category': 'sports',
-        'stream_url': 'https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/320aa3c2-5273-4541-a916-640dd3f81970:BRU/variant/2efd9d393cc7fff0fc6580ada14bfe6d/bandwidth/2977158.m3u8',
-        'backup_url': 'https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/320aa3c2-5273-4541-a916-640dd3f81970:BRU/variant/83ed98cfa63df1b169a33cfbb4def0e6/bandwidth/2019972.m3u8',
+        'stream_url': 'https://river-1.rutube.ru/stream/genetta-519.ost.rutube.ru/1TLdikJCllvjzyoyv-3Abw/1764688328/e5bacac3b8e730791d4cab20ae81cd8f/360p_stream.m3u8',
+        'backup_url': 'https://river-1.rutube.ru/stream/genetta-519.ost.rutube.ru/1TLdikJCllvjzyoyv-3Abw/1764688328/e5bacac3b8e730791d4cab20ae81cd8f/360p_stream.m3u8',
         'quality': '720p'
     },
     {
@@ -41,8 +41,8 @@ LIVE_STREAMS = [
         'name': 'SKY SPORTS MAIN',
         'icon': '📺',
         'category': 'sports',
-        'stream_url': 'https://river-3-369.rtbcdn.ru/stream/genetta-511.ost.rutube.ru/o6tgbvEz9YikUHe9WpEBig/1764472833/9585fdae92af45f113fdcc9f6c4ba442/720p_stream.m3u8',
-        'backup_url': 'https://river-3-369.rtbcdn.ru/stream/genetta-511.ost.rutube.ru/o6tgbvEz9YikUHe9WpEBig/1764472833/9585fdae92af45f113fdcc9f6c4ba442/360p_stream.m3u8',
+        'stream_url': 'https://river-3-369.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/oT0wVAMoYwJpS32nJYsInA/1764688448/9585fdae92af45f113fdcc9f6c4ba442/360p_stream.m3u8',
+        'backup_url': 'https://river-3-369.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/oT0wVAMoYwJpS32nJYsInA/1764688448/9585fdae92af45f113fdcc9f6c4ba442/360p_stream.m3u8',
         'quality': '720p'
     },
     {
@@ -59,8 +59,8 @@ LIVE_STREAMS = [
         'name': 'SKY SPORTS F1',
         'icon': '🏎️',
         'category': 'racing',
-        'stream_url': 'https://river-3-374.rtbcdn.ru/stream/genetta-520.ost.rutube.ru/flVvEcgmnHDONNHs85uW1w/1764472829/e5df6984021365a58b3ba22dab2f670a/1080p_stream.m3u8',
-        'backup_url': 'https://river-3-374.rtbcdn.ru/stream/genetta-520.ost.rutube.ru/flVvEcgmnHDONNHs85uW1w/1764472829/e5df6984021365a58b3ba22dab2f670a/360p_stream.m3u8',
+        'stream_url': 'https://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/cANFchkiqlXk6oqaVyV3cA/1764688524/e5df6984021365a58b3ba22dab2f670a/1080p_stream.m3u8',
+        'backup_url': 'https://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/cANFchkiqlXk6oqaVyV3cA/1764688524/e5df6984021365a58b3ba22dab2f670a/1080p_stream.m3u8',
         'quality': '720p'
     },
     {
@@ -68,8 +68,8 @@ LIVE_STREAMS = [
         'name': 'NBA BASKETBALL',
         'icon': '🏀',
         'category': 'basketball',
-        'stream_url': 'https://river-1.rutube.ru/stream/genetta-323.m9.rutube.ru/Cngeo5Z18Pk1QlA5LAITNw/1764472937/d01241e9fd2bc2d65dbf6d74cca02f89/576p_stream.m3u8',
-        'backup_url': 'https://river-1.rutube.ru/stream/genetta-323.m9.rutube.ru/Cngeo5Z18Pk1QlA5LAITNw/1764472937/d01241e9fd2bc2d65dbf6d74cca02f89/360p_stream.m3u8',
+        'stream_url': 'https://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/XtU2cRILbOrnWrnYKTTPCg/1764688569/d01241e9fd2bc2d65dbf6d74cca02f89/1080p_stream.m3u8',
+        'backup_url': 'https://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/XtU2cRILbOrnWrnYKTTPCg/1764688569/d01241e9fd2bc2d65dbf6d74cca02f89/1080p_stream.m3u8',
         'quality': '576p'
     }
 ]
