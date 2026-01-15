@@ -23,8 +23,8 @@ LIVE_STREAMS = [
         'name': 'PREMIER SPORTS',
         'icon': '⚽',
         'category': 'sports',
-        'stream_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=beINSPORTSUS',
-        'backup_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=beINSPORTSUS',
+        'stream_url': 'https://rutube.ru/play/embed/9585fdae92af45f113fdcc9f6c4ba442',
+        'backup_url': 'https://rutube.ru/play/embed/9585fdae92af45f113fdcc9f6c4ba442',
         'quality': '720p'
     },
     {
@@ -32,8 +32,8 @@ LIVE_STREAMS = [
         'name': 'SKY SPORTS PREMIER LEAGUE',
         'icon': '🔴',
         'category': 'premier_league', 
-        'stream_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=SkySportsFootballUK',
-        'backup_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=SkySportsFootballUK',
+        'stream_url': 'https://rutube.ru/play/embed/e5bacac3b8e730791d4cab20ae81cd8f',
+        'backup_url': 'https://rutube.ru/play/embed/e5bacac3b8e730791d4cab20ae81cd8f',
         'quality': '720p'
     },
     {
