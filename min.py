@@ -23,8 +23,8 @@ LIVE_STREAMS = [
         'name': 'PREMIER SPORTS',
         'icon': '⚽',
         'category': 'sports',
-        'stream_url': 'https://river-1.rutube.ru/stream/genetta-519.ost.rutube.ru/1TLdikJCllvjzyoyv-3Abw/1764688328/e5bacac3b8e730791d4cab20ae81cd8f/360p_stream.m3u8',
-        'backup_url': 'https://river-1.rutube.ru/stream/genetta-519.ost.rutube.ru/1TLdikJCllvjzyoyv-3Abw/1764688328/e5bacac3b8e730791d4cab20ae81cd8f/360p_stream.m3u8',
+        'stream_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=beINSPORTSUS',
+        'backup_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=beINSPORTSUS',
         'quality': '720p'
     },
     {
@@ -32,8 +32,8 @@ LIVE_STREAMS = [
         'name': 'SKY SPORTS PREMIER LEAGUE',
         'icon': '🔴',
         'category': 'premier_league', 
-        'stream_url': 'https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/4fe92128-0730-41c7-bfef-7ce7cea86a84:BRU/variant/9ee48f2b7254c5ec0c4f1bd967231e22/bandwidth/823489.m3u8',
-        'backup_url': 'https://river-3-349.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/Oa3M5MfczMACecPRs92c5Q/1764422247/e5bacac3b8e730791d4cab20ae81cd8f/720p_stream.m3u8',
+        'stream_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=SkySportsFootballUK',
+        'backup_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=SkySportsFootballUK',
         'quality': '720p'
     },
     {
@@ -50,8 +50,8 @@ LIVE_STREAMS = [
         'name': 'LALIGA',
         'icon': '⚽',
         'category': 'sports',
-        'stream_url': 'https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8',
-        'backup_url': 'https://est.dhscgrsresri.space/simpch4/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzYzODE5NzU4LCJyYW5kIjoiZjFjODA1MjEwZmE1MGFiMyJ9.94367b389b6a54f2b2c9892817c7e15baeb68f756bd96c0fe1c93843629e1128',
+        'stream_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=SkySportsFootballUK',
+        'backup_url': 'https://hesgoal.cam/stream/sandbox.html?id=https://lovecdn.ru/daddy.php?stream=SkySportsFootballUK',
         'quality': '720p'
     },
     {
